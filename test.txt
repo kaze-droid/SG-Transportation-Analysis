@@ -1,0 +1,15 @@
+Flat Fare -> Same Fare paid no matter what distance is travelled
+
+Night Rider/Night Owl Service -> Late-night bus services that operate in a uni-directional fashion
+from the city to various housing estates in Singapore
+
+Industrial -> Bus services that serve the industrial areas of Jurong
+
+Trunk -> Bus services that take you from one neighbourhood to another
+
+Express -> Bus services that skip bus stops or travel by expressways
+
+Feeder -> Connects to various neighbourhoods within the same estate.
+
+
+Trunk,Express,Feeder
