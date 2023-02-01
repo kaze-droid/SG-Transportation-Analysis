@@ -1,0 +1,4 @@
+cardholders,Primary Student,Secondary Student,Polytechnic Student,University Student,Full-time National Serviceman,Senior Citizen,Adult (Monthly Travel Pass)
+bus_price,24,29,29,55.5,55.5,na,na
+train_price,21,26.5,26.5,48,48,na,na
+hybrid_price,43.5,54.0,54.0,90.5,90.5,64.0,128.0
